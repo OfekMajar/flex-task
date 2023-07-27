@@ -23,7 +23,7 @@
   
   /* For images to not be able to exceed their container */
   img {
-    max-width: 100%;
+    max-width: 10%;
   }
   
   /* Removes spacing between cells in tables */
